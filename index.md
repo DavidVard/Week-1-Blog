@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+  In our modern world the internet has impacted our communications drastically and the technology pioneered before it, which lead up to the internet, also impacted communications in its respected era. Tarleton Gillespie End-to-End article impacted me the most. Gillespie tries to define or elaborate on what the internet is and analyse other people's definitions. Gillespie goes on to say that people like graphic designers, computer programmers, or people whose backgrounds encompassing the internet have no common census or definition on what the internet is. Then Gillespie goes on a rant about how people who have no certification or degree to define the internet came up with the End-to-End theory. Gillespie doesn’t entirely disagree with this theory but he says that the the End-to-End theory is far too simple to define something as broad as the internet. According to Gillespie,” But how did this term come to stand in as an icon for the shape of the Internet, inside of engineering debates and out, such that authoritative claims about the technology's value, purpose, and impact could be built upon it?”(Gillespie, 2006,p. 430) To me this shows that Gillespie is confused by how this simple definition was even considered and from someone like me who took C++ and graphic design in highschool, this definition seems too vague to me as well. In Tim Wu’s article,”The Master Switch”, Wu talks about how technology is constantly evolving and when people think technology can't get any better than what it is it somehow does and Wu calls these cycles. I agree with Wu, especially as someone who lived in the era of flip phones, were everyone considered sidekicks and blackberrys to be the most technological advances phones at the time. Now living present day we have iphones and samsungs which tower in advancement compared to older flip phones.  Wu also talks about the history of At&t and how later on the company monopolized because of infrastructures they built early on, he talks about the introduction of the first phone and how they made a call to the border during a nation geographic dinner, he talks about Internet protocols, and he talks about different technology cycles throughout the century. In James W. Careys Article, “The Case of The Telegraph, Carey goes on to talk about the history of the telegraph and how it reshaped communication. Carey talks about how the telegraph reshaped trade on the railroads and helped create time zones. According to Carey,” The telegraph was the first product—really the foundation—of the electrical goods industry and thus the first of the science.”(James W. Carey, 2009 , p.2) I agree with Carey, because i believe without the telegraph people wouldn't have been pushed to advance on technology and develop something like the phone. The telegraph is the starting point of electrical goods and it also helps prove Tim Wu’s points of technological cycles.  
 
-You can use the [editor on GitHub](https://github.com/DavidVard/Week-1-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+                                                              Work Cited
+                                                              
+Carey, J. (2009). Technology and Ideology: The Case of the Telegraph
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidVard/Week-1-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Gillespie, T. (2006) Engineering a Principle: 'End-to-End' in the Design of the Internet. Social Studies of Science, Vol. 36, No. 3. Sage Publications
