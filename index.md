@@ -22,6 +22,7 @@ Professor O’hara
 Information studies 
 6/2/2019
   
+                                                                  Week 1 Reading
   
   In our modern world the internet has impacted our communications drastically and the technology pioneered before it, which lead up to the internet, also impacted communications in its respected era. Tarleton Gillespie End-to-End article impacted me the most. Gillespie tries to define or elaborate on what the internet is and analyse other people's definitions. Gillespie goes on to say that people like graphic designers, computer programmers, or people whose backgrounds encompassing the internet have no common census or definition on what the internet is. Then Gillespie goes on a rant about how people who have no certification or degree to define the internet came up with the End-to-End theory. Gillespie doesn’t entirely disagree with this theory but he says that the the End-to-End theory is far too simple to define something as broad as the internet. According to Gillespie,” But how did this term come to stand in as an icon for the shape of the Internet, inside of engineering debates and out, such that authoritative claims about the technology's value, purpose, and impact could be built upon it?”(Gillespie, 2006,p. 430) To me this shows that Gillespie is confused by how this simple definition was even considered and from someone like me who took C++ and graphic design in highschool, this definition seems too vague to me as well.
   
